@@ -1,7 +1,7 @@
 # Sonarr
 PHP Wrapper for Sonarr https://sonarr.tv
 
-Here is the Sonarr API Documentation that this package implements: https://github.com/Sonarr/Sonarr/wiki/API
+Here is the Sonarr API Documentation that this package implements: https://github.com/Sonarr/Sonarr/wiki/API 
 
 ## Installation
 ```ruby
