@@ -5,12 +5,12 @@ Here is the Sonarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require JosephShenton/sonarr
+composer require PlexManager/sonarr
 ```
 
 ## Example Usage
 ```php
-use JosephShenton\Sonarr\Sonarr;
+use PlexManager\Sonarr\Sonarr;
 ```
 ```php
 public function addSeries()
