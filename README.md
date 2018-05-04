@@ -5,7 +5,7 @@ Here is the Sonarr API Documentation that this package implements: https://githu
 
 ## Installation
 ```ruby
-composer require PlexManager/sonarr
+composer require plexmanager/sonarr
 ```
 
 ## Example Usage

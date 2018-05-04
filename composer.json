@@ -1,5 +1,5 @@
 {
-    "name": "PlexManager/sonarr",
+    "name": "plexmanager/sonarr",
     "description": "PHP Sonarr API Wrapper",
     "license": "MIT",
     "authors": [
